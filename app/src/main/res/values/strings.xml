@@ -4,4 +4,7 @@
     <string name="enviar">Enviar</string>
     <string name="novo">Novo</string>
     <string name="valor_de_1_at_10">Valor de 1 até 10</string>
+    <string name="life1">life1</string>
+    <string name="life2">life2</string>
+    <string name="life3">life3</string>
 </resources>
