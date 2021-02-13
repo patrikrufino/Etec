@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo-Descubra-O-Numero</string>
+    <string name="digite_o_valor">Digite o valor!</string>
+    <string name="enviar">Enviar</string>
+    <string name="novo">Novo</string>
+    <string name="valor_de_1_at_10">Valor de 1 até 10</string>
+</resources>
