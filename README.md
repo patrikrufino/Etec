@@ -23,3 +23,15 @@
   - [Text View](https://github.com/patrikrufino/Jogo-Descubra-O-Numero/blob/main/app/src/main/res/drawable/edit_mod.xml)
   - [Text View Dinâmica](https://github.com/patrikrufino/Jogo-Descubra-O-Numero/blob/main/app/src/main/res/drawable/icon_mod.xml)
   - [Mascara Degradê](https://github.com/patrikrufino/Jogo-Descubra-O-Numero/blob/main/app/src/main/res/drawable/transparentepretoecinza.xml)
+  
+### Quer rodar você mesmo?
+
+1. Faça o clone do repositório:
+```
+git clone https://github.com/patrikrufino/Jogo-Descubra-O-Numero.git
+
+```
+2. Abra o Android Studio;
+3. Abra a pasta do projeto;
+
+## _Good Luck!_
