@@ -28,7 +28,7 @@
 
 1. Faça o clone do repositório:
 ```
-git clone https://github.com/patrikrufino/Jogo-Descubra-O-Numero.git
+https://github.com/patrikrufino/app-descubraonumero-etec.git
 ```
 2. Abra o Android Studio;
 3. Abra a pasta do projeto;
